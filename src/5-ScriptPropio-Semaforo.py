@@ -5,7 +5,7 @@ CONTROLLER_URL = "http://127.0.0.1:58000"
 
 login_payload = {
     "username": "admin",
-    "password": "Cisco123!"
+    "password": "TP4redes"
 }
 
 # 2. Pedir el Ticket
