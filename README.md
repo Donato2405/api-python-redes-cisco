@@ -71,8 +71,4 @@ Obtiene un ticket de autenticación y consulta los dispositivos de red y los hos
 
 ### 5. 5-ScriptPropio-Semaforo.py — Monitoreo de dispositivos
 
-Script desarrollado por el grupo que consulta el estado de accesibilidad de los dispositivos mediante la API REST del Network Controller.
-
-Implementa un sistema de indicadores que clasifica los dispositivos como operativos (`OK`) o en alerta (`ALERTA`), mostrando sus nombres y direcciones IP.
-
-Su objetivo es facilitar la identificación de dispositivos que podrían presentar problemas de conectividad.
+Nuestro script consulta la API REST del Network Controller y evalúa el estado de accesibilidad de los dispositivos. Mediante un sistema de indicadores, clasifica los equipos como operativos (OK) o en alerta (ALERTA), mostrando sus nombres y direcciones IP. Su finalidad es facilitar la identificación de posibles problemas de conectividad en la red.
