@@ -51,12 +51,6 @@ Simplemente escribimos en la línea de comandos: **deactivate**
 **Materia:** Redes de Computadoras (3643)  
 **Año:** 2026 — Segundo cuatrimestre
 
-## Descripción del proyecto
-
-Este repositorio contiene los scripts de Python utilizados en el Trabajo Práctico N.º 4 Integrador de Redes de Computadoras.
-
-Los programas interactúan con la API REST del Network Controller de Cisco Packet Tracer para realizar consultas, obtener información de los dispositivos y supervisar su estado.
-
 ## Descripción de los scripts
 
 ### 1. 01_get-ticket.py — Autenticación
